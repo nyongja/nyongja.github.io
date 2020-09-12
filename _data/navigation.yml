@@ -1,7 +1,5 @@
 # Site navigation links
-- title: About
-  url: /about/
+- title: Profile
+  url: /profile/
 - title: Projects
   url: /projects/
-- title: Awards
-  url: /awards/

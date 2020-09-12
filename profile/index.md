@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About JAYUN
+title: Jayun's Profile
 tags: [about, jayun]
 date: 2020-9-12
 comments: false
@@ -23,9 +23,3 @@ comments: false
 {% endcapture %}
 {% include gallery images=images caption="My hobby is Drawing and Baking :)" cols=2 %}
 If you want to see more pictures, click [Jay's Drawing](https://www.instagram.com/jay_drawing.cafe/) or [Jay's Bakery](https://www.instagram.com/jay_bakery.cafe/)
-
-
-## Getting Started
-
-      
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
